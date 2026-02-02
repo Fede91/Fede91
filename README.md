@@ -1,16 +1,130 @@
-# 💫 About Me:
-🧑🏻‍💻 AI Engineer & Full-Stack Developer<br>🚀​ SaaS Bootstraper<br>🎨 UX/UI enthusiast<br>🤑 Road to financial independence
+# Federico Bagato
 
+**AI Engineer & Full-Stack Developer building bootstrapped SaaS products.**
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/socialb6f1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xfe.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/federicobagato) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xfedev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCF7FiPeERG6eyb0kO55HqGQ) 
+I'm building a portfolio of AI-powered tools focused on productivity and developer experience. Current objective: $24k MRR in 24 months through sustainable, bootstrapped products.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Fede91&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Fede91&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fede91&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Fede91&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Current Focus
+
+**Target:** $24k MRR by February 2028  
+**Domain:** AI-powered tools for productivity, development, and content creation  
+**Methodology:** Rapid iteration, user-driven development, transparent metrics
+
+---
+
+## Building in Public
+
+Real-time metrics from the journey:
+
+| Metric | Status |
+|--------|--------|
+| **Monthly Recurring Revenue** | $0 → $24k (target) |
+| **Active Users** | Pre-launch phase |
+| **Products Shipped** | 0/6 (in development) |
+| **Product Hunt Launches** | 1 ([Fiorino AI](https://www.producthunt.com/products/fiorino-ai/launches/fiorino-ai)) |
+
+*Last updated: February 2026*
+
+---
+
+## Product Portfolio
+
+### [Open Indie Builder](https://github.com/Fede91/open-indie-builder)
+A comprehensive suite of tools designed to help indie builders communicate more effectively with their audience. Streamlines content creation, distribution, and engagement tracking.
+
+**Status:** In Development  
+**Stack:** Next.js, TypeScript, Supabase
+
+### [Sohzo](https://github.com/Fede91/sohzo)
+Mobile application that transforms curiosity into a daily habit through AI-generated discoveries. Delivers one thoughtful insight at a time, fostering continuous learning and engagement.
+
+**Status:** In Development  
+**Stack:** React Native, AI/ML
+
+### [JunoDeck](https://github.com/Fede91/junodeck)
+Converts Jupyter notebooks into stakeholder-ready presentations without rewriting or losing technical context. Bridges the gap between data science work and business communication.
+
+**Status:** In Development  
+**Stack:** Python, Next.js
+
+### [ReVo](https://github.com/Fede91/revo)
+Voice-first feedback tool that captures user reviews through audio instead of typing. Uses AI to transform spoken feedback into structured, actionable insights for product teams.
+
+**Status:** In Development  
+**Stack:** Next.js, OpenAI, Voice Processing
+
+### [aicommit](https://github.com/Fede91/aicommit)
+CLI tool that generates meaningful commit messages using OpenAI's GPT models. Features multiple profile support, interactive review workflow, and seamless Git integration.
+
+**Status:** Open Source  
+**Stack:** Node.js, OpenAI API
+
+### [Oh My Stuff](https://github.com/Fede91/ohmystuff)
+Personal finance application that calculates the ongoing daily cost of ownership for possessions. Provides insights into the true economic value of items over time.
+
+**Status:** In Development  
+**Stack:** React Native, TypeScript
+
+---
+
+## Previous Launches
+
+**[Fiorino AI](https://www.producthunt.com/products/fiorino-ai/launches/fiorino-ai)** — Product Hunt Launch  
+AI-powered tool for content creation and workflow automation.
+
+---
+
+## Technical Stack
+
+**Languages:** JavaScript, TypeScript, Python, PHP  
+**Frontend:** Next.js, React, React Native  
+**Backend:** Node.js, Express  
+**AI/ML:** OpenAI API, PyTorch, TensorFlow, scikit-learn  
+**Database:** PostgreSQL, Supabase, Prisma  
+**Infrastructure:** AWS, Vercel, Heroku  
+**DevOps:** Git, GitHub Actions, Docker  
+**Design:** Figma, Adobe Creative Suite
+
+---
+
+## Progress Milestones
+
+**Achieved:**
+- Product Hunt launch (Fiorino AI)
+- 6 products in development pipeline
+- Open source tool published (aicommit)
+
+**In Progress:**
+- First paying customer acquisition
+- $100 MRR milestone
+- Launch of first product from current pipeline
+
+**Target Goals:**
+- 6 products shipped and live
+- $1k MRR milestone
+- $24k MRR by February 2028
+
+---
+
+## Connect
+
+I share insights and progress on the indie builder journey across multiple platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federicobagato/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/federico.bgt/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@0xFeDev)
+
+---
+
+## Current Activities
+
+- Preparing launches for 6 products in the pipeline
+- Writing about AI implementation and indie building
+- Designing user experiences for complex technical products
+- Open to collaborations, feedback, and partnership opportunities
+
+**Follow the journey:** [Open Indie Builder Journal](https://www.0xfe.dev) [LinkedIn](https://www.linkedin.com/in/federicobagato/) · [Substack](https://0xfedev.substack.com/)
+
+---
+
+*This profile updates with each significant milestone. Current focus: preparing product launches.*
